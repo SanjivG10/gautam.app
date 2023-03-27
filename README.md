@@ -1,6 +1,6 @@
 # Gautam.app
 
-OpenAI + NextJS + React Icons + Tailwind CSS = 🔥
+OpenAI + MidJourney + NextJS + React Icons + Tailwind CSS = 🔥
 
 ## How to run? 
 
